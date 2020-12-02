@@ -59,13 +59,11 @@ ___
   ![edit books](https://user-images.githubusercontent.com/26554853/100705515-8061b300-33d1-11eb-978e-6bbbfaa8cba9.jpg)
   
   ##### Students Part
-   <figcaption>Student Registration Page</figcaption>
-   
-  ![Students Register](https://user-images.githubusercontent.com/26554853/100705888-3200e400-33d2-11eb-9efc-4ab97aca97b5.jpg)
   
-   <figcaption>Students Login Page</figcaption>
-   
-![Students Login](https://user-images.githubusercontent.com/26554853/100705893-33321100-33d2-11eb-8627-36562db1d30d.jpg)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/26554853/100705888-3200e400-33d2-11eb-9efc-4ab97aca97b5.jpg" width="400" height="300"/>
+  <img src="https://user-images.githubusercontent.com/26554853/100705893-33321100-33d2-11eb-8627-36562db1d30d.jpg" width="400" height="300"/> 
+</p>
 
  <figcaption>Students Issue Books Page</figcaption>
  
